@@ -30,7 +30,8 @@ int main() {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/37a7f93c-e7a9-4d03-add2-d742ee4507b5)
+![image](https://github.com/user-attachments/assets/6899e257-0065-4546-bc3f-acce299a5591)
+
 
 
 
